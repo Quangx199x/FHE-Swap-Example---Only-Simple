@@ -1,0 +1,14 @@
+{
+  "name": "fhe-swap",
+  "version": "1.0.0",
+  "description": "Demo repo for Fully Homomorphic Encryption Swap",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "dependencies": {
+    "hardhat": "^2.22.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
